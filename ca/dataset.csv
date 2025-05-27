@@ -1,0 +1,736 @@
+skill,intent,example
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quin dia serà el proper cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan cau el proper cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan serà el cap de setmana que ve?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan queda pel proper cap de setmana?
+ovos-skill-date-time.openvoiceos,time.until.intent,què falta pel cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan arribarem al finde?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan és el proper diumenge?
+ovos-skill-date-time.openvoiceos,time.until.intent,quant queda pel cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan comença el capde?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,pots dir-me les dates del pròxim cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,el proper cap de setmana és demà passat?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,en què cau el finde que ve?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quina data tindrem el cap de setmana pròxim?
+ovos-skill-date-time.openvoiceos,time.until.intent,quants dies queden pel cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quins dies són el proper finde?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,quin mes serà el cap de setmana que ve?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quin dia serà el proper finde?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,en quins dies cau el següent cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,em pots dir els dies que seran este cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quin és el pròxim capde?
+ovos-skill-date-time.openvoiceos,time.until.intent,quan falta perquè sigui cap de setmana?
+ovos-skill-date-time.openvoiceos,date.future.weekend.intent,quan serà lo proper dissabte-diumenge?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quin dia va ser l'últim cap de setmana?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quan va caure el darrer cap de setmana?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quan va ser el cap de setmana passat?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quins dies eren el cap de setmana passat?
+ovos-skill-date-time.openvoiceos,time.until.intent,quan fa que va ser l'últim cap de setmana?
+ovos-skill-date-time.openvoiceos,time.until.intent,quant ha passat des del finde?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quan va ser l'últim cap de setmana?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quin dia va ser l'últim dissabte?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,en quines dates va caure el darrer cap de setmana?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quan vam tenir el darrer capde?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,em podries recordar quan va ser l'últim diumenge?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,va ser dia tretze el cap de setmana passat?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,diumenge de la setmana passada quin número era?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,el finde anterior en què va caure?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,digue'm la data del cap de setmana previ
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,et recordes de la data del cap de setmana passat?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quines dates van formar el darrer cap de setmana?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,l'últim finde quins dies va ser?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,en quines dates va caure l'últim cap de setmana?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,me pots recordar quan va ser lo últim finde?
+ovos-skill-date-time.openvoiceos,date.last.weekend.intent,quins dies van ser es cap de setmana passat?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,a quin dia vivim?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,quin dia és avui?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,diga'm en quin dia estem?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,avui és...?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,no sé quin dia és avui
+ovos-skill-date-time.openvoiceos,current_date.intent,em pots dir la data?
+ovos-skill-date-time.openvoiceos,current_date.intent,em pots dir la data d'avui?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,a quin dia del mes ens trobem?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,"quina és la data d'avui, exactament?"
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,"em podries confirmar la data d'avui, sisplau?"
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,quina és la data d'avui?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,digues el dia actual
+ovos-skill-date-time.openvoiceos,current_date.intent,"quin dia, mes i any tenim avui?"
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,saps la data del dia present?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,"actualment, saps en quin dia ens trobem?"
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,en quin dia m'he despertat avui?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,quina data és la d'avui?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,en quin dia del calendari ens trobem?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,quin dia és hui?
+ovos-skill-date-time.openvoiceos,current_date.intent,"em pots dir el número, el mes i l'any en què som avui?"
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,a quin mes som?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,quin més de l'any és?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,em podries dir en quin mes estem?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,en quin més vivim?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,som al més de maig?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,avui quin mes és?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,aquest mes quin és?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,ja hem entrat al maig?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,em podries confirmar si ja som al maig?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,com es diu aquest mes?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,a quin mes correspon la data d'avui?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,som a gener o quin mes?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,tens idea del mes en què ens trobem?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,saps el mes actual?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,em podries dir el mes d'ara?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,"en el temps present, quin és el mes?"
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,quin és el mes en què ens trobem ara?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,quin mes hi ha ara mateix al calendari que tinc penjat a la paret de la cuina?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,ara mateix som al mes d'abril o de maig?
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,siusplau recorda'm en quin mes som que estic molt despistat
+ovos-skill-date-time.openvoiceos,what.month.is.it.intent,em pots recordar lo nom del mes en què som ara?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,quina hora és?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,hora?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,què diu el rellotge?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,ja són les dotze?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,diga'm l'hora
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,"podires dir-me l'hora, si us plau"
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,em pots dir l'hora?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,que tens l'hora?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,quina és l'hora exacta a Nova York?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,és d'hora?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,"saps si és gaire tard, ara mateix?"
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,ja són les quatre o quina hora?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,a quin moment del dia ens trobem?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,"em pots indicar l'hora, el minut i el segon actuals?"
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,"ara mateix, què diu el rellotge?"
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,ara mateix què posa al teu rellotge?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,em podries informar de l'hora que és ara mateix?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,ara són les deu o les onze?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,és massa tard per fer-me un cafè ara o no podré dormir a la nit?
+ovos-skill-date-time.openvoiceos,what.time.is.it.intent,"me pots dir s'hora, per favor?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,quina hora tindrem d'aquí a vint minuts?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,quina hora serà d'aquí a dues hores?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"seran les quatre, després de cinc minuts?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,d'aquí a una hora i tres quarts seran les...?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"quan passin trenta-quatre mintus, quina hora serà?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,em pots dir quina hora serà quan hagin passat sis hores i divuit minuts?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"si passa una hora i dos quarts, quina hora serà?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,quina hora serà d'aquí un quart d'hora?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,podries calcular quina hora serà quan passin dues hores i deu minuts?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,quants minuts passaran de les cinc en dues hores?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"si en dos minuts seran les tres, quina hora hi haurà en deu minuts?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,quina hora serà a dos quarts de quatre?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,em saps dir què marcarà el rellotge en vint minuts?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,quina hora tocarà en tres hores?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"quan hagin passat trenta minuts, quina hora marcarà el rellotge?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"si ara em poso a estudiar tres quarts d'hora, quina hora serà llavors?"
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,d'aquí vint minuts seran les deu i vint?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,d'aquí vint minuts seran tres quarts i cinc de deu?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,en una hora quan faltarà per les onze de la nit?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,quin dia de la setmana és?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,avui és dilluns?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,avui és...?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,diga'm el dia de la setmana
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,avui és dimarts o dimecres?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,en quin dia de la setmana estem?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,quin dia és avui?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,avui és festiu?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,en quin dia de la setmana ens trobem?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,avui és dissabte o diumenge?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,estem a dimarts?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,avui és la castanyada?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,saps a quin dia de la setmana estem actualment?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,digues el dia de la setmana actual
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,"si ahir era dimarts, quin dia de la setmana és avui?"
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,em pots indicar el dia de la setmana present
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,indica'm el dia de la setmana on som
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,si em dius que avui és dilluns em torno a posar al llit i no em desperto fins divendres
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,quin dia de la setmana som hui?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,"si miro al calendari, quin dia de la setmana som avui?"
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,si vostè és tan amable em podria dir quin dia de la setmana és avui?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,que saps a quin any som?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,a quin any vivim?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,som al 2025?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,quin any és?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,estem al 2025?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,em pots dir l'any acutal?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,veritat que som al 2025?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,em pots confirmar l'any en què ens trobem?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,em pots dir l'any actual?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,"som al 2025, oi?"
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,en quin any estem?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,en quin any ens trobem?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,em saps dir quin és l'any actual?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,ja som a 2024 o quin any?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,l'any d'ara quin és?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,en quin any ens trobem ara mateix?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,som al 2025 o al 2026?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,quin és lo any que posa ara mateix al calendari?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,"el meu avi està desorientat i diu que som al 2020, té raó o no?"
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,en el dia de hui en quin any som?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,bon dia tinguis!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,"hola, hola!"
+ovos-skill-hello-world.openvoiceos,Greetings.intent,bona tarda!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,bona nit!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,"ep, què passa?"
+ovos-skill-hello-world.openvoiceos,Greetings.intent,"desperta, gandul!"
+ovos-skill-hello-world.openvoiceos,Greetings.intent,ei!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,salutacions!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,hola de nou!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,bon dia i bona hora
+ovos-skill-hello-world.openvoiceos,Greetings.intent,holi!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,bon dia al dematí!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,hola hola!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,bon dia i bona hora!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,per aquí una persona que et saluda!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,molt bon dia pel matí!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,ep hola!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,déu vos guard!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com vas avui?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,què tal?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com va tot?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com anem?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com t'has llevat avui?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,tot bé?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com va la cosa?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com va el dia?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,"què dius, com estàs?"
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com et va la vida?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,què tal aquests dies?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com et trobes?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,quines novetats tens?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com prova el dia?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,què dius de bo?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,com van els ànims?
+ovos-skill-hello-world.openvoiceos,Greetings.intent,què onda?
+ovos-skill-laugh.openvoiceos,Laugh.intent,vull sentir-te riure
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu!
+ovos-skill-laugh.openvoiceos,Laugh.intent,com és el teu riure?
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu una estona
+ovos-skill-laugh.openvoiceos,Laugh.intent,pots riure?
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu molt de temps
+ovos-skill-laugh.openvoiceos,Laugh.intent,"riu, sisplau"
+ovos-skill-laugh.openvoiceos,Laugh.intent,que pots riure?
+ovos-skill-laugh.openvoiceos,Laugh.intent,et demano que riguis
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu una mica
+ovos-skill-laugh.openvoiceos,Laugh.intent,saps riure?
+ovos-skill-laugh.openvoiceos,Laugh.intent,"va, riu una mica."
+ovos-skill-laugh.openvoiceos,Laugh.intent,ensenya'm com riu una andròmina com tu
+ovos-skill-laugh.openvoiceos,Laugh.intent,saps com sona una rialla?
+ovos-skill-laugh.openvoiceos,Laugh.intent,a veure com rius
+ovos-skill-laugh.openvoiceos,Laugh.intent,pots mostrar-me el teu riure
+ovos-skill-laugh.openvoiceos,Laugh.intent,m'agradaria sentir com rius
+ovos-skill-laugh.openvoiceos,Laugh.intent,vull que riguis com si fossis un assitent molt divertit
+ovos-skill-laugh.openvoiceos,Laugh.intent,vull que riguis de manera que em facis riure a mi
+ovos-skill-laugh.openvoiceos,Laugh.intent,i si me fas una rialla?
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu de tant en tant
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,ves rient aleatòriament!
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu a l'atzar
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu en moments inesperats
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,pots riure quan vulguis
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,vull que riguis de manera aleatòria
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu de manera espontània
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,pots riure quan et sembli?
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,podries anar fent alguna rialla quan trobis?
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,"Si alguna cosa et fa gràcia, riu"
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,fes rialletes quan menys m'ho esperi
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,pots descollonar-te de manera discontínua?
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,a veure si saps riure a intervals
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu ara sí i ara no
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,podries riure de tant en tant?
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu en el moment que et surti de dins
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,riu de manera random
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,pots riure quan jo menys m'ho esperi?
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,et dono permís per riure quan a tu et vingui de gust
+ovos-skill-laugh.openvoiceos,RandomLaugh.intent,pega't una rialla quan tu vulgues
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu com si t'hagués posseït el diable
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu com si estiguessis boig
+ovos-skill-laugh.openvoiceos,Laugh.intent,fes un riure malvat
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu endimoniadament
+ovos-skill-laugh.openvoiceos,Laugh.intent,podries riure com el dialble
+ovos-skill-laugh.openvoiceos,Laugh.intent,fes un riure que faci por
+ovos-skill-laugh.openvoiceos,Laugh.intent,pots riure de manera diabòlica
+ovos-skill-laugh.openvoiceos,Laugh.intent,fes un riure maligne
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu com si fossis el dolent d'una pel·li
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu com una bruixa!
+ovos-skill-laugh.openvoiceos,Laugh.intent,vull un riure que m'esgarrifi
+ovos-skill-laugh.openvoiceos,Laugh.intent,fes un riure que congeli la sang
+ovos-skill-laugh.openvoiceos,Laugh.intent,fes risa de villana
+ovos-skill-laugh.openvoiceos,Laugh.intent,a veure si saps fer un riure maligne
+ovos-skill-laugh.openvoiceos,Laugh.intent,saps com riu un dolent de pel·lícula?
+ovos-skill-laugh.openvoiceos,Laugh.intent,imita un riure malvat
+ovos-skill-laugh.openvoiceos,Laugh.intent,pots riure com un dimoni?
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu com si tinguessis Satanàs entre dins dels teus cables de robot
+ovos-skill-laugh.openvoiceos,Laugh.intent,ets capaç de riure com si fossis el diable principal de l'espectacle dels Pastorets?
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu com si fossis a l'infern de Dante
+ovos-skill-laugh.openvoiceos,Laugh.intent,podries riure de la manera més diabòlica i tenebrosa del món?
+ovos-skill-laugh.openvoiceos,Laugh.intent,riu de manera que facis por a qualsevol persona del món sencer
+ocp,play,vull sentir Bon dia dels Pets
+ocp,play,posa'm balades de rock
+ocp,play,posa cançons tristes
+ocp,play,vull música alegre
+ocp,play,vull escoltar nadales
+ocp,play,posa sons agradables d'ocells
+ocp,play,podries reproduir l'últim concert de Cap d'Any?
+ocp,play,posa'm música per concentrar-me
+ocp,play,vull sentir el mar
+ocp,play,reprodueix alguna cançó
+ocp,play,vull que posis Lady Gaga
+ocp,play,posa música alegre
+ocp,play,"fes sonar Madonna, sisplau"
+ocp,play,m'agradaria sentir algo relaxant
+ocp,play,podries posar música de fons?
+ocp,play,em poses música nova?
+ocp,play,vull sentir alguna cosa que m'animi
+ocp,play,posa'm alguna cosa de la Julieta
+ocp,play,"em ve de gust escoltar Lluís Llach, si us plau."
+ocp,play,reprodueix el nou senzill dels Tyets
+ocp,play,podries posar-me alguna música de meditació?
+ocp,play,"necessito sentir sons del mar, en tens algun?"
+ocp,play,m'agradaria que posessis una cançó animada
+ocp,play,"ovo, sardanes, si us plau."
+ocp,play,destijo sentir la llista musical d'èxits
+ocp,play,m'agradaria escoltar el nou disc sencer de Figa Flawas
+ocp,play,pots fer sonar una cançó que sigui molt tranquil·la?
+ocp,play,posa'm una cançó que sigui d'estil jazz
+ocp,play,posa'm la nova cançó que ha tret la Rosalía
+ocp,play,"si pots, em podries posar el nou ep de ferran palau?"
+ocp,play,em podries posar cançons que em motivin per anar al gimnàs?
+ocp,play,posa a tota castanya la cançó Olivia de l'artista The Tyets
+ocp,play,posa una cançó que animi aquest dia de merda que porto a la feina
+stop,stop,atura aquest soroll insofrible
+stop,stop,para ja!
+stop,stop,pausa!
+stop,stop,atura la música
+stop,stop,fes silenci
+stop,stop,deixa de reproduir
+stop,stop,pots parar la música?
+stop,stop,podries pausar els sorolls?
+stop,stop,stop!
+stop,stop,para la cançó ara mateix
+stop,stop,ja n'hi ha prou de cançons
+stop,stop,posa la música en pausa
+stop,stop,stop música
+stop,stop,"silencia el que està sonant, sisplau"
+stop,stop,talla el so
+stop,stop,apaga la música ja
+stop,stop,"per favor, para això!"
+stop,stop,"t'ho demano si us plau, atura aquesta musicota"
+stop,stop,estop!
+stop,stop,"prou de cançons, gràcies!"
+stop,stop,calla d'una vegada!
+stop,stop,silenci!
+stop,stop,"ja no em ve més de gust sentir música, para-la, si us plau."
+stop,stop,"m'he cansat, para la música"
+stop,stop,pots posar stop a la cançó que està sonant?
+stop,stop,"siusplau, pots fer que deixi de sonar el que estic escoltant?"
+stop,stop,silenci siusplau!
+stop,stop,calla per favor!
+stop,stop,para la música que m'està entrant una trucada important
+stop,stop,atura açò que està sonant
+stop,stop,pausa la música que no sento que diu ma mare des de la cuina
+ovos-skill-news.openvoiceos,global_news.intent,què ha passat al mon?
+ovos-skill-news.openvoiceos,global_news.intent,què està passant arreu?
+ovos-skill-news.openvoiceos,global_news.intent,com s'ha llevat el mon?
+ovos-skill-news.openvoiceos,global_news.intent,notícies mundials
+ovos-skill-news.openvoiceos,global_news.intent,què va passar ahir a la resta del planeta?
+ovos-skill-news.openvoiceos,global_news.intent,pots explicar-me les notícies del mon
+ovos-skill-news.openvoiceos,global_news.intent,pots posar la BBC?
+ovos-skill-news.openvoiceos,global_news.intent,m'agradaria escoltar les notícies en francès
+ovos-skill-news.openvoiceos,global_news.intent,"posa les notícies internacionals, sisplau"
+ovos-skill-news.openvoiceos,global_news.intent,què està passant als Estats Units ara mateix?
+ovos-skill-news.openvoiceos,global_news.intent,quins canals internacionals em pots oferir?
+ovos-skill-news.openvoiceos,global_news.intent,posa'm al dia de l'actualitat internacional
+ovos-skill-news.openvoiceos,global_news.intent,quins embolics hi ha pel món avui?
+ovos-skill-news.openvoiceos,global_news.intent,quina és l'actualitat mundial?
+ovos-skill-news.openvoiceos,global_news.intent,com estan les notícies internacionals?
+ovos-skill-news.openvoiceos,global_news.intent,vull sentir les novetats internacionals d'actualitat
+ovos-skill-news.openvoiceos,global_news.intent,el món està fatal! pots posar-me les notícies internacionals
+ovos-skill-news.openvoiceos,global_news.intent,posa'm la tele internacional porfa
+ovos-skill-news.openvoiceos,global_news.intent,vull que posis una cadena internacional a la meva tele
+ovos-skill-news.openvoiceos,global_news.intent,posa'm notícies que parlin de coses que han passat pel món
+ovos-skill-news.openvoiceos,global_news.intent,sintonitza amb unes notícies que parlin a nivell global
+ovos-skill-news.openvoiceos,news.intent,posa'm les notícies
+ovos-skill-news.openvoiceos,news.intent,informa'm
+ovos-skill-news.openvoiceos,news.intent,què està passant aquí?
+ovos-skill-news.openvoiceos,news.intent,notícies locals
+ovos-skill-news.openvoiceos,news.intent,què diu Catalunya informació?
+ovos-skill-news.openvoiceos,news.intent,explica'm les notícies del dia
+ovos-skill-news.openvoiceos,news.intent,vull que connectis amb Rac1
+ovos-skill-news.openvoiceos,news.intent,"aviam de què parla l'Ustrell aquest matí, a Catalunya Ràdio?"
+ovos-skill-news.openvoiceos,news.intent,vull saber en directe què està passant a Catalunya
+ovos-skill-news.openvoiceos,news.intent,"pots posar-me catalunya informació, sisplai?"
+ovos-skill-news.openvoiceos,news.intent,reprodueix les notícies en català
+ovos-skill-news.openvoiceos,news.intent,què diuen al noticiari?
+ovos-skill-news.openvoiceos,news.intent,posa'm al dia de l'actualitat
+ovos-skill-news.openvoiceos,news.intent,reprodueix el canal d'actualitat
+ovos-skill-news.openvoiceos,news.intent,fica la informació actual ja
+ovos-skill-news.openvoiceos,news.intent,necessito saber les novetats de l'actualitat
+ovos-skill-news.openvoiceos,news.intent,vull saber que estan dient a les notícies
+ovos-skill-news.openvoiceos,news.intent,"m'agradaria posar-me al dia del que està passant, em pots connectar amb les notícies?"
+ovos-skill-news.openvoiceos,news.intent,pots sintonitzar amb les notícies?
+ovos-skill-news.openvoiceos,news.intent,fes que sonin les notícies a la meva habitació
+ovos-skill-news.openvoiceos,news.intent,"si és tan amable, podria encendre les notícies, siusplau?"
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,has sentit el que t'he dit?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,m'has entès?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,t'ha quedat clar?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,ho has comprès?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,t'has assabentat del que he dit?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,tot clar?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,m'escoltes?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,"hola, hi ets?"
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,em segueixes?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,estàs parant atenció?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,digues si em sents
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,ho has sentit bé?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,que has entès el que he dit?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,t'has enterat?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,ho has pillat?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,captes el que et dic?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,has pogut captar la informació que t'he donat?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,m'has pogut seguir?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,has entès totes les meves paraules?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,m'has sentit bé o he anat massa ràpid parlant?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,has pogut agafar el meu missatge?
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,repeteix el que acabo de dir
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,pots tornar a dir el que he dit jo
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,què acabo de dir?
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,repeteix les meves últimes paraules
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,què t'he dit abans?
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,"si m'has entès, repeteix el que he dit"
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,torna a dir el que t'he dit
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,repeteix l'últim que he dit
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,recordes el que acabo de dir?
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,digues exactament allò que he dit
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,a veure què t'acabo de dir
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,pots tornar a dir el que he dit?
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,repeteix l'últim que t'he dit
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,sabries reiterar l'última cosa que he dit?
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,"si us plau, repeteix-me el que acabo de dir"
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,m'està semblant una idea tan bona que necessito que repeteixis el que acabo de dir
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,t'ordeno que diguis el mateix que he dit ara com si jo fos el teu caporal i tu un soldat
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,fes servir les mateixes paraules que acabo de dir
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,parla de la mateixa manera com t'acabo de parlar
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,digues exactament mot per mot del que t'he dit
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,torna-ho a dir
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,repeteix
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"torna-hi, si us plau"
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,diga-ho un altre cop
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,com dius?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,què has dit?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"pots repetir l'ultim punt, sisplau?"
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,digues-ho una altra vegada
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"no t'he entès, podries repetir-ho?"
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,repeteix la teva resposta
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,torna-hi
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,digue-m'ho un altre cop
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,recorda'm què acabes de dir
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,em pots repetir això últim?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"no t'he entès, pots tornar-ho a repetir?"
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,pots repetir-me exactament el que m'has dit?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,pots tornar a repetir les mateixes paraules que has emprat en l'anterior interacció?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"ostres, no he entès una merda! pots tornar-ho a dir?"
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,com dius? torna a repetir el que has dit
+ovos-skill-parrot.openvoiceos,start_parrot.intent,activa el mode lloro
+ovos-skill-parrot.openvoiceos,start_parrot.intent,"a partir d'ara, repeteix tot el que diré"
+ovos-skill-parrot.openvoiceos,start_parrot.intent,repeteix el que dic jo
+ovos-skill-parrot.openvoiceos,start_parrot.intent,repeteix-me fins que et digui
+ovos-skill-parrot.openvoiceos,start_parrot.intent,inicia el modo lloro
+ovos-skill-parrot.openvoiceos,start_parrot.intent,comença a dir tot el que jo dic
+ovos-skill-parrot.openvoiceos,start_parrot.intent,ves repetint-me
+ovos-skill-parrot.openvoiceos,start_parrot.intent,repeteix tot el que digui
+ovos-skill-parrot.openvoiceos,start_parrot.intent,fes de lloro
+ovos-skill-parrot.openvoiceos,start_parrot.intent,repeteix el que digui automàticament
+ovos-skill-parrot.openvoiceos,start_parrot.intent,imita'm
+ovos-skill-parrot.openvoiceos,start_parrot.intent,inicia el mode lloro
+ovos-skill-parrot.openvoiceos,start_parrot.intent,inicia mode de repetició
+ovos-skill-parrot.openvoiceos,start_parrot.intent,"ara, repeteix el que digui"
+ovos-skill-parrot.openvoiceos,start_parrot.intent,imita'm com un lloro
+ovos-skill-parrot.openvoiceos,start_parrot.intent,"des d'ara, imita tot el que jo digui"
+ovos-skill-parrot.openvoiceos,start_parrot.intent,comença a repetir-me com un lloro
+ovos-skill-parrot.openvoiceos,start_parrot.intent,activa mode repetició
+ovos-skill-parrot.openvoiceos,start_parrot.intent,activa aquesta cosa que fas de repetir tot el que et vaig dient
+ovos-skill-parrot.openvoiceos,start_parrot.intent,posa on al mode parrot
+ovos-skill-parrot.openvoiceos,start_parrot.intent,ara vull que em repeteixis tota l'estona
+ovos-skill-parrot.openvoiceos,start_parrot.intent,a partir d'ara pots repetir tot el que dic com si fossis el meu eco?
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,para de repetir el que dic
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,atura el modo lloro
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,prou de repetir-me
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,no em repeteixis més
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,ja no em repeteixis
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,desactiva el mode lloro
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,ja n'hi ha prou!
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,stop mode lloro
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,deixa d'imitar-me
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,torna al mode normal
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,prou de copiar-me
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,desconnecta el mode repetició
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,para d'imitar-me!
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,prou de lloro!
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,fins aquí!
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,estop repeticions!
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,para siusplau de repetir-me
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,para de dir tota l'estona el mateix del que estic dient!
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,stop al mode de repetició
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,a partir d'ara et demano que aturis el mode de repetició
+ovos-skill-parrot.openvoiceos,stop_parrot.intent,"ostres, què pesat! atura aquest mode de repetició!"
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quina mena d'artefacte ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,què ets exactament?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,què nassos ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quin tipus d'invent ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,no entenc què ets... m'ho podries explicar?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,ets un assistent virtual?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,ets un robot?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,a què et dediques?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quin és el teu propòsit?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quin tipus de màquina ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,ets una intel·ligència artificial?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,què se suposa que ets tu?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,m'expliques exactament què ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,què coi ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,"ets una andròmina, una màquina o què?"
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quina carraca se suposa que ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quin tipus de robot ets?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,amb quina mena de cosa representa que estic parlant?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,quin material tens a dins teu?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,de quina tecnologia estàs format?
+ovos-skill-personal.openvoiceos,WhatAreYou.intent,com et definiries?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan vas sortir de l'ou?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan vas ser creat?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan fa que et van crear?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan fa que existeixes?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,des de quin any funciones?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,em pots dir quan vas néixer?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan vas néixer?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan vas entrar en funcionament?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,fa quant que ets aquí?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quant temps fa que treballes?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan et van posar en marxa?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quin dia et van crear?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,des de quan existeixes?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quina és la data del teu naixement?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,a quin any vas néixer tu?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan et van parir?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan vas veure la llum per primer cop?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quan va ser la primera vegada que vas obrir els ulls?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,quin dia vas ser creat?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,en quin moment vas néixer?
+ovos-skill-personal.openvoiceos,WhenWereYouBorn.intent,en quina data et van crear els teus pares?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,on vas aparèixer?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,on vas néixer?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,on et van crear?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,quin és el teu lloc d'origen?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,d'on surts?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,em pots dir on vas néixer?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,a quin país et van crear?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,ets d'aquí o de l'estranger?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,on et van dissenyar?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,d'on vens?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,a quina empresa et van fer?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,d'on t'has sortit?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,a quin lloc et van crear?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,et van fer a un laboratori o a on?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,vas néixer a Catalunya?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,quina nacionalitat tens?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,a quin lloc del món vas treure el cap?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,a quina ciutat et van crear?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,quins van ser els ciutadans que et van saludar primer?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,on vas ser creat?
+ovos-skill-personal.openvoiceos,WhereWereYouBorn.intent,en quina localització vas néixer?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com et dius?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,quin és el teu nom?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com t'he d'anomenar?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,qui ets?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com m'he de referir a tu?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com et diuen els teus amics?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,tens algun nom?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com et puc anomenar?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com et fas conèixer?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,et pots presentar?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com vols que em dirigeixi a tu?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com t'he de dir?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,"m'expliques qui ets, si us plau?"
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,amb qui parlo?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,qui és vostè?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,presenta't una mica que no sé ni com et dius.
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com et fas anomenar?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,com et nomies?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,quin nom posa al teu DNI?
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,amb quin nom et sents interpel·lat?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui t'ha fet existir?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui et va inventar?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui et va crear?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui són els teus pares?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,diga'm qui et va desenvolupar
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,podries explicar-me qui t'ha fet
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui és el teu creador?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui t'ha desenvolupat?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui hi ha darrere teu?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui t'ha posat en marxa?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui t'ha programat?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui és la mare que et va parir?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,et van fer uns enginyers?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui t'ha inventat?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui són els teus creadors?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,qui són els genis que han tingut la idea de crear-te?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,com es diuen les persones que t'han creat?
+ovos-skill-personal.openvoiceos,WhoMadeYou.intent,quin nom tenen els teus creadors?
+ovos-skill-weather.openvoiceos,current_temperature.intent,"pots mirar si farà fred a Viladecans, aquest cap de setmana?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"ha de ploure avui a Barcelona?"
+ovos-skill-weather.openvoiceos,is_snow.intent,"podries dir-me si nevarà demà a Llívia?"
+ovos-skill-weather.openvoiceos,current_weather.intent,"fa bon temps a Tarragona?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"plourà durant la setmana a Lleida?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"he sentit que havia de ploure aquesta tarda a Girona, és veritat això?"
+ovos-skill-weather.openvoiceos,is_clear.intent,"ha de fer sol a Castelldefels aquesta tarda?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"vol ploure aquest matí a l'Anoia?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"a la comarca del Priorat, hi plou?"
+ovos-skill-weather.openvoiceos,daily_weather.intent,"demà tindrem un dia rúfol?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"cal que agafi paraigua aquesta tarda?"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"quan pujarà la temperatura?"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"mira'm la temperatura aquest mes: puc fer el canvi d'armari?"
+ovos-skill-weather.openvoiceos,is_fog.intent,"farà xafogor dissabte?"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"quina és la sensació tèrmica ara mateix?"
+ovos-skill-weather.openvoiceos,is_snow.intent,"saps si ha nevat al Pirineu?"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"aquest any patirem alguna onada de calor?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"indica'm si plourà o no aquesta tarda"
+ovos-skill-weather.openvoiceos,is_snow.intent,"hi haurà neu a Montserrat a partir de demà?"
+ovos-skill-weather.openvoiceos,is_clear.intent,"es preveu sol per la tarda a Piera?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"saps si tindrem pluges a partir de divendres?"
+ovos-skill-weather.openvoiceos,is_wind.intent,"comprova si aquesta tarda farà vent a Marsella"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"és veritat que pujaran les temperatures durant el cap de setmana?"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"pots consultar si farà fred demà?"
+ovos-skill-weather.openvoiceos,daily_weather.intent,"necessito que em diguis si demà farà mal temps"
+ovos-skill-weather.openvoiceos,is_clear.intent,"farà sol o núvol demà a Vilanova?"
+ovos-skill-weather.openvoiceos,next_rain.intent,"quan hi ha previsió que torni a ploure a Catalunya?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"demà farà pedregada a Lleida?"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"creus que tindré fred si vaig a la platja avui a Barcelona?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"si surto de casa sense paraigua avui a Igualada tornaré mullada a la tarda?"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"avui tu em recomanes un jersei de coll alt o un jersei més lleuger per portar per Barcelona?"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"sortirà el sol algun dia d'aquesta setmana?"
+ovos-skill-weather.openvoiceos,is_wind.intent,"aquesta tarda afluixarà el vent o sortiré volant?"
+ovos-skill-weather.openvoiceos,weekend_forecast.intent,"quin temps farà a Viladecans aquest cap de setmana"
+ovos-skill-weather.openvoiceos,current_weather.intent,"quin temps fa aquesta tarda a Barcelona?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"visc a Sant Cugat, m'he de posar jaqueta o agafar el paraigua aquesta tarda?"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"diga'm el temps d'aquesta setmana a Olo"
+ovos-skill-weather.openvoiceos,current_weather.intent,"al Solsonès, quin temps hi fa?"
+ovos-skill-weather.openvoiceos,current_weather.intent,"indica'm les condicions meteorològiques acutals a Móra d'Ebre"
+ovos-skill-weather.openvoiceos,current_weather.intent,"podries dir-me quin temps ha de fer a Vic durant el dia?"
+ovos-skill-weather.openvoiceos,hourly_forecast.intent,"quin temps ha de fer aquesta tarda a Manresa?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"quin temps farà a Terrassa el dijous?"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"fes-me un resum del temps aquesta setmana a Estocolm"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"vull que em diguis quin temps es preveu per a la festa major de Vilanova i la Geltrú"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"em podries fer la previsió del temps per demà?"
+ovos-skill-weather.openvoiceos,hourly_forecast.intent,"creus el temps remuntarà aquesta tarda?"
+ovos-skill-weather.openvoiceos,weekend_forecast.intent,"com pinta el temps pel cap de setmana?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"dilluns farà bo per anar a la platja?"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"el temps continuarà així els propers dies?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"tindrem bon temps per la revetlla de Sant Joan?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"quina és la previsió del temps per demà?"
+ovos-skill-weather.openvoiceos,hourly_forecast.intent,"indica'm quin temps s'espera aquesta tarda"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"necessito saber el temps de la setmana que ve a Madrid"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"saps si farà bon temps dimecres a París?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"tens idea de la meteorologia de demà passat a la ubicació actual?"
+ovos-skill-weather.openvoiceos,hourly_weather.intent,"què diu el temps per avui al migdia?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"la previsió meteorològica de dijous és bona oi?"
+ovos-skill-weather.openvoiceos,hourly_forecast.intent,"explica'm la previsió del temps per la nit"
+ovos-skill-weather.openvoiceos,N_days_forecast.intent,"quina és la previsió del temps per aquests dies?"
+ovos-skill-weather.openvoiceos,current_temperature.intent,"avui creus que m'hauria d'abrigar molt?"
+ovos-skill-weather.openvoiceos,is_rain.intent,"necessito agafar paraigua per aquest finde?"
+ovos-skill-weather.openvoiceos,hourly_forecast.intent,"avui a la nit quin temps farà a Barcelona?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"quin temps pinta demà?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"mira'm la previsió per demà, siusplau!"
+ovos-skill-weather.openvoiceos,is_clear.intent,"com pinta el cel avui?"
+ovos-skill-weather.openvoiceos,daily_forecast.intent,"converteix-te en Tomàs Molina i diga'm la previsió de demà"
+ovos-skill-weather.openvoiceos,sunrise.intent,"a quina hora es llevarà el sol, demà?"
+ovos-skill-weather.openvoiceos,sunrise.intent,a quina hora sortirà el sol a Girona demà?
+ovos-skill-weather.openvoiceos,sunrise.intent,quan surt el sol demà?
+ovos-skill-weather.openvoiceos,sunrise.intent,avui quan es fa de dia?
+ovos-skill-weather.openvoiceos,sunrise.intent,a quina hora veurem els primers rajos de sol?
+ovos-skill-weather.openvoiceos,sunrise.intent,demà quan comencen les hores de sol?
+ovos-skill-weather.openvoiceos,sunrise.intent,"avui, a quina hora comença el dia?"
+ovos-skill-weather.openvoiceos,sunrise.intent,"quan es farà de dia, la setmana vinent?"
+ovos-skill-weather.openvoiceos,sunrise.intent,"amb el canvi d'hora, el sol surt més d'hora?"
+ovos-skill-weather.openvoiceos,sunrise.intent,"em pots dir l'hora de sortida del sol, sisplau?"
+ovos-skill-weather.openvoiceos,sunrise.intent,a quina hora sortirà el sol a Menorca dimecres?
+ovos-skill-weather.openvoiceos,sunrise.intent,vull que em diguis si el sol surt abans a l'estiu
+ovos-skill-weather.openvoiceos,sunrise.intent,a partir de quina hora hi haurà llum demà?
+ovos-skill-weather.openvoiceos,sunrise.intent,demà quan s'espera l'aurora?
+ovos-skill-weather.openvoiceos,sunrise.intent,em pots indicar l'horari de l'albada per dijous?
+ovos-skill-weather.openvoiceos,sunrise.intent,quan es produirà el trenc d'alba demà?
+ovos-skill-weather.openvoiceos,sunrise.intent,"demà passat, quan seran les albors?"
+ovos-skill-weather.openvoiceos,sunrise.intent,a quina hora el sol començarà a treure el cap demà?
+ovos-skill-weather.openvoiceos,sunrise.intent,quan podré veure el primer raig de sol per l'horitzó demà?
+ovos-skill-weather.openvoiceos,sunrise.intent,"si deixo la finestra oberta de l'habitació, a quina hora veuré entrar el sol?"
+ovos-skill-weather.openvoiceos,sunrise.intent,a quina hora dirà hola demà el sol?
+ovos-skill-weather.openvoiceos,sunrise.intent,a quina hora és l'eixida del sol demà?
+ovos-skill-weather.openvoiceos,sunset.intent,quina hora marcarà el rellotge quan es pongui el sol?
+ovos-skill-weather.openvoiceos,sunset.intent,quan es pondrà el sol?
+ovos-skill-weather.openvoiceos,sunset.intent,quan se'n va el sol?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora marxa el sol demà?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora es farà fosc avui?
+ovos-skill-weather.openvoiceos,sunset.intent,"quan se n'anirà a dormir el sol, avui?"
+ovos-skill-weather.openvoiceos,sunset.intent,"avui, a quina hora acaba el dia?"
+ovos-skill-weather.openvoiceos,sunset.intent,saps si a l'hivern el sol es pon abans?
+ovos-skill-weather.openvoiceos,sunset.intent,quan es fa fosc actualment?
+ovos-skill-weather.openvoiceos,sunset.intent,creus que el sol es pon després de les vuit al juny?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora cau el sol avui?
+ovos-skill-weather.openvoiceos,sunset.intent,quan tindrem la posta de sol la nit de Nadal?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora s'iniciarà el capvespre?
+ovos-skill-weather.openvoiceos,sunset.intent,quan s'amagarà el sol demà?
+ovos-skill-weather.openvoiceos,sunset.intent,em pots dir l'horari de la caiguda del sol?
+ovos-skill-weather.openvoiceos,sunset.intent,digues a quina hora se n'anirà a dormir el sol demà
+ovos-skill-weather.openvoiceos,sunset.intent,a partir de quan podem veure la posta de sol
+ovos-skill-weather.openvoiceos,sunset.intent,quan dirà adéu el sol?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora ja no hi haurà la llum del sol pels carrers avui?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora li haig de dir bona nit al sol?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora baixa la persiana el sol?
+ovos-skill-weather.openvoiceos,sunset.intent,a quina hora s'amagarà el sol?
+ovos-skill-wikipedia.openvoiceos,wiki.intent,què diu la viquipèdia sobre la clorofil·la?
+ovos-skill-wikipedia.openvoiceos,wiki.intent,cerca a la wikipèdia informació sobre el zodíac
+ovos-skill-wikipedia.openvoiceos,wiki.intent,aviam què diu la wikipèdia sobre Dora Maar
+ovos-skill-wikipedia.openvoiceos,wiki.intent,pots consultar a la wikipèdia què és el matcha?
+ovos-skill-wikipedia.openvoiceos,wiki.intent,troba'm un article a la wikipèdia sobre les diferents religions a l'Índia
+common_query,common_query,busca'm informació sobre les falgueres
+common_query,common_query,parla'm dels ossos rentadors
+common_query,common_query,què saps de les aurores boreals
+common_query,common_query,explica'm la guerra del francès
+common_query,common_query,pots llegir-me l'article d'Ovidi Montllor?
+common_query,common_query,què són els anèl·lids?
+common_query,common_query,podries buscar informació sobre l'Aitana Bonmatí?
+common_query,common_query,què nassos és un tetraedre?
+common_query,common_query,vull saber més sobre la història del Futbol Club Barcelona
+common_query,common_query,què pots trobar sobre la capoeira?
+common_query,common_query,què se sap de la monarquia a Hawaii? Busca'n informació
+common_query,common_query,explica'm qui va ser Mao Tse-tung
+common_query,common_query,què són les catedrals romàniques?
+common_query,common_query,parla'm del modernisme
+common_query,common_query,explica'm què saps de Girona
+common_query,common_query,saps qui és la Cher?
+common_query,common_query,necessito saber com es cuida una orquídia
+common_query,common_query,em podries ajudar a aprendre com fer un ou ferrat?
+common_query,common_query,què en saps de Colom?
+common_query,common_query,tens alguna informació del Tractat dels Pirineus?
+common_query,common_query,em podries donar informació sobre la malaltia renal crònica?
+common_query,common_query,per un treball necessito informació sobre la guerra de successió
+common_query,common_query,"no tinc ni idea qui és Carme Ruscalleda, em pots explicar una mica la seva vida?"
+common_query,common_query,fes una ullada sobre què és el bsc
+common_query,common_query,dona'm info sobre presi usa actual
+common_query,common_query,quan va passar allò de les torres bessones i què va passar?
+common_query,common_query,què saps sobre la ciutat italiana de Bologna?
+common_query,common_query,em pots contar informació sobre la indústria del tèxtil?
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,llegeix-me un article qualsevol de la wikipèdia
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,quina és la curiositat d'avui
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,article aleatori
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,explica'm un article random
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,tria a l'atzar un article de la viquipèdia i llegeix-lo
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,"d'entre tots els articles de la wikipèdia, escull-ne un i recita-me'l"
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,tria un article a l'atzar de la wikipèdia
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,ensenya'm una entrada que no conegui
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,vull aprendre alguna cosa nova a la wikipèdia
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,obre un article qualsevol
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,"mostra'm un article sorpresa, sisplau"
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,em dius què posa a qualsevol article de la viquipèdia
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,recita un article de la viquipèdia al tuntún
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,"a la babalà, tria una pàgina de la viquipèdia i llegeix-la"
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,recomana'm un article de la viquipèdia que t'interessi
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,què diu al primer article de la viquièdia que trobis?
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,envia'm un article random
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,passa'm un article de la wikipèdia de qualsevol tema
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,vull que em sorprenguis amb un article aleatori de la wikipèdia
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,estic avorrida... em pots enviar un article qualsevol de la wikipèdia que em pugui interessar?
+ovos-skill-wikipedia.openvoiceos,wikiroulette.intent,a veure si ets capaç d'enviar-me un article d'una cosa que no tingui ni idea
