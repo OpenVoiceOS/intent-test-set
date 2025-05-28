@@ -54,14 +54,14 @@ ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Wat is precies de datum v
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Kun je me alsjeblieft de datum van vandaag bevestigen?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Wat is de datum van vandaag?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Zeg me de dag van vandaag
-ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Welke dag, maand en jaar is het vandaag?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,"Welke dag, maand en jaar is het vandaag?"
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Weet je de datum van vandaag?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Weet je welke dag het vandaag is?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Op welke dag ben ik vandaag wakker geworden?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Wat is de datum van vandaag?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Op welke dag van de kalender zitten we?
 ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Welke dag is het vandaag?
-ovos-skill-date-time.openvoiceos,what.day.is.it.intent,Kun je me het nummer, de maand en het jaar van vandaag zeggen?
+ovos-skill-date-time.openvoiceos,what.day.is.it.intent,"Kun je me het nummer, de maand en het jaar van vandaag zeggen?"
 ovos-skill-date-time.openvoiceos,what.month.is.it.intent,In welke maand zitten we?
 ovos-skill-date-time.openvoiceos,what.month.is.it.intent,Welk maand van het jaar is het?
 ovos-skill-date-time.openvoiceos,what.month.is.it.intent,Kun je me zeggen in welke maand we zijn?
@@ -112,7 +112,7 @@ ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Als er anderhalf uu
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Hoe laat is het over een kwartier?
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Kan je berekenen hoe laat het is over twee uur en tien minuten?
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Hoeveel minuten gaan er voorbij tussen vijf uur en twee uur later?
-ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Als het over twee minuten drie uur is, hoe laat is het dan over tien minuten?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"Als het over twee minuten drie uur is, hoe laat is het dan over tien minuten?"
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Hoe laat is het om half vier?
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Weet je hoe laat de klok aangeeft over twintig minuten?
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Hoe laat is het over drie uur?
@@ -120,7 +120,7 @@ ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Hoe laat staat de k
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Als ik nu drie kwartier ga studeren, hoe laat is het dan?
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Over twintig minuten is het tien over half tien?
 ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Over twintig minuten is het kwart voor tien?
-ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,Hoe laat is het over een uur, hoe lang nog tot elf uur ‘s avonds?
+ovos-skill-date-time.openvoiceos,what.time.will.it.be.intent,"Hoe laat is het over een uur, hoe lang nog tot elf uur ‘s avonds?"
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Welke dag van de week is het?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Is het vandaag maandag?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Is het vandaag...?
@@ -135,10 +135,10 @@ ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Is het dinsdag vandaa
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Is het vandaag de kastanjefeestdag?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Weet je welke dag van de week het vandaag is?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Zeg me de huidige dag van de week
-ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Als het gisteren dinsdag was, welke dag van de week is het dan vandaag?
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,"Als het gisteren dinsdag was, welke dag van de week is het dan vandaag?"
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Kun je me de huidige dag van de week zeggen?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Vertel me op welke dag van de week we zitten
-ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Als je me zegt dat het maandag is, ga ik weer naar bed en word ik pas vrijdag wakker
+ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,"Als je me zegt dat het maandag is, ga ik weer naar bed en word ik pas vrijdag wakker"
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Welke dag van de week is het vandaag?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Als ik op de kalender kijk, welke dag van de week is het dan vandaag?
 ovos-skill-date-time.openvoiceos,what.weekday.is.it.intent,Alsjeblieft, zou u me kunnen vertellen welke dag van de week het is?
@@ -160,14 +160,14 @@ ovos-skill-date-time.openvoiceos,what.year.is.it.intent,Welk jaar is het nu?
 ovos-skill-date-time.openvoiceos,what.year.is.it.intent,In welk jaar zitten we nu precies?
 ovos-skill-date-time.openvoiceos,what.year.is.it.intent,Zijn we in 2025 of 2026?
 ovos-skill-date-time.openvoiceos,what.year.is.it.intent,Welk jaar staat er nu op de kalender?
-ovos-skill-date-time.openvoiceos,what.year.is.it.intent,Mijn opa is in de war en zegt dat het 2020 is, heeft hij gelijk of niet?
+ovos-skill-date-time.openvoiceos,what.year.is.it.intent,"Mijn opa is in de war en zegt dat het 2020 is, heeft hij gelijk of niet?"
 ovos-skill-date-time.openvoiceos,what.year.is.it.intent,In welk jaar zitten we vandaag?
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Goedemorgen!
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Hoi hoi!
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Goedenavond!
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Welterusten!
-ovos-skill-hello-world.openvoiceos,Greetings.intent,Hé, wat gebeurt er?
-ovos-skill-hello-world.openvoiceos,Greetings.intent,Word eens wakker, luiaard!
+ovos-skill-hello-world.openvoiceos,Greetings.intent,"Hé, wat gebeurt er?"
+ovos-skill-hello-world.openvoiceos,Greetings.intent,"Word eens wakker, luiaard!"
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Hé!
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Groeten!
 ovos-skill-hello-world.openvoiceos,Greetings.intent,Hoi daar weer!
@@ -271,27 +271,27 @@ ocp,play,Ik wil het geluid van de zee horen
 ocp,play,Speel een liedje af
 ocp,play,Ik wil dat je Lady Gaga draait
 ocp,play,Zet vrolijke muziek op
-ocp,play,Zou je Madonna aan kunnen zetten, alsjeblieft?
+ocp,play,"Zou je Madonna aan kunnen zetten, alsjeblieft?"
 ocp,play,Ik wil iets ontspannends horen
 ocp,play,Zou je achtergrondmuziek kunnen spelen?
 ocp,play,Zet wat nieuwe muziek op?
 ocp,play,Ik wil iets horen wat me opvrolijkt
 ocp,play,Zet iets van Julieta op
-ocp,play,Ik heb zin om Lluís Llach te horen, alsjeblieft
+ocp,play,"Ik heb zin om Lluís Llach te horen, alsjeblieft"
 ocp,play,Speel de nieuwe single van The Tyets af
 ocp,play,Zou je meditatiemuziek aan kunnen zetten?
 ocp,play,Ik heb geluiden van de zee nodig, heb je die?
 ocp,play,Ik wil dat je een vrolijk liedje zet
-ocp,play,Ovo, sardanes, alsjeblieft
+ocp,play,"Ovo, sardanes, alsjeblieft"
 ocp,play,Ik wil graag de hitlijst horen
 ocp,play,Ik wil het hele nieuwe album van Figa Flawas horen
 ocp,play,Zou je een heel rustig nummer kunnen afspelen?
 ocp,play,Zet een jazznummer op
 ocp,play,Zet de nieuwe song van Rosalía op
-ocp,play,Als het kan, zet je dan de nieuwe EP van Ferran Palau op?
+ocp,play,"Als het kan, zet je dan de nieuwe EP van Ferran Palau op?"
 ocp,play,Zou je motiverende nummers kunnen zetten voor in de sportschool?
 ocp,play,Zet het nummer Olivia van The Tyets lekker hard aan
-ocp,play,Zet een nummer op dat me opvrolijkt vandaag, want het is een kutdag op werk
+ocp,play,"Zet een nummer op dat me opvrolijkt vandaag, want het is een kutdag op werk"
 stop,stop,Stop dat ondraaglijke lawaai
 stop,stop,Stop ermee!
 stop,stop,Pauzeer!
@@ -310,20 +310,20 @@ stop,stop,Doe het geluid uit, alsjeblieft
 stop,stop,Zet het geluid uit
 stop,stop,Zet de muziek uit nu
 stop,stop,Stop dat alsjeblieft!
-stop,stop,Nu vraag ik je alsjeblieft, stop die harde muziek
+stop,stop,"Nu vraag ik je alsjeblieft, stop die harde muziek"
 stop,stop,Stop!
 stop,stop,Genoeg liedjes, dank je!
 stop,stop,Wees nou eens stil!
 stop,stop,Stilte!
-stop,stop,Ik wil geen muziek meer, zet het uit alsjeblieft
+stop,stop,"Ik wil geen muziek meer, zet het uit alsjeblieft"
 stop,stop,Ik ben het zat, zet de muziek uit
 stop,stop,Kun je stoppen met het nummer dat nu speelt?
-stop,stop,Alsjeblieft, stop met wat ik aan het luisteren ben
-stop,stop,Stilte, alsjeblieft!
+stop,stop,"Alsjeblieft, stop met wat ik aan het luisteren ben"
+stop,stop,"Stilte, alsjeblieft!"
 stop,stop,Wees stil alsjeblieft!
-stop,stop,Stop de muziek, ik krijg een belangrijke oproep
+stop,stop,"Stop de muziek, ik krijg een belangrijke oproep"
 stop,stop,Stop dat geluid nu
-stop,stop,Pauzeer de muziek, ik hoor mijn moeder niet vanuit de keuken
+stop,stop,"Pauzeer de muziek, ik hoor mijn moeder niet vanuit de keuken"
 ovos-skill-news.openvoiceos,global_news.intent,Wat is er allemaal in de wereld gebeurd?
 ovos-skill-news.openvoiceos,global_news.intent,Wat gebeurt er nu overal?
 ovos-skill-news.openvoiceos,global_news.intent,Hoe staat het ervoor in de wereld?
@@ -341,7 +341,7 @@ ovos-skill-news.openvoiceos,global_news.intent,Wat is het wereldnieuws nu?
 ovos-skill-news.openvoiceos,global_news.intent,Hoe is het internationale nieuws?
 ovos-skill-news.openvoiceos,global_news.intent,Ik wil het laatste internationale nieuws horen
 ovos-skill-news.openvoiceos,global_news.intent,Het gaat slecht met de wereld! Zet het internationale nieuws aan
-ovos-skill-news.openvoiceos,global_news.intent,Zet de internationale tv aan, alsjeblieft
+ovos-skill-news.openvoiceos,global_news.intent,"Zet de internationale tv aan, alsjeblieft"
 ovos-skill-news.openvoiceos,global_news.intent,Ik wil een internationale zender op mijn tv
 ovos-skill-news.openvoiceos,global_news.intent,Zet nieuws aan over wat er in de wereld is gebeurd
 ovos-skill-news.openvoiceos,global_news.intent,Zet een zender aan met wereldnieuws
@@ -354,7 +354,7 @@ ovos-skill-news.openvoiceos,news.intent,Vertel me het nieuws van vandaag
 ovos-skill-news.openvoiceos,news.intent,Ik wil dat je verbinding maakt met Rac1
 ovos-skill-news.openvoiceos,news.intent,Wat zegt Ustrell vanochtend op Catalunya Ràdio?
 ovos-skill-news.openvoiceos,news.intent,Ik wil live weten wat er in Catalonië gebeurt
-ovos-skill-news.openvoiceos,news.intent,Kunt u Catalunya Informació aanzetten, alsjeblieft?
+ovos-skill-news.openvoiceos,news.intent,"Kunt u Catalunya Informació aanzetten, alsjeblieft?"
 ovos-skill-news.openvoiceos,news.intent,Speel het nieuws in het Catalaans af
 ovos-skill-news.openvoiceos,news.intent,Wat zeggen ze in het journaal?
 ovos-skill-news.openvoiceos,news.intent,Breng me op de hoogte van het nieuws
@@ -362,7 +362,7 @@ ovos-skill-news.openvoiceos,news.intent,Speel de nieuwszender af
 ovos-skill-news.openvoiceos,news.intent,Zet het actuele nieuws aan
 ovos-skill-news.openvoiceos,news.intent,Ik moet het laatste nieuws weten
 ovos-skill-news.openvoiceos,news.intent,Ik wil weten wat ze zeggen op het nieuws
-ovos-skill-news.openvoiceos,news.intent,Ik wil graag op de hoogte blijven, kun je me verbinden met het nieuws?
+ovos-skill-news.openvoiceos,news.intent,"Ik wil graag op de hoogte blijven, kun je me verbinden met het nieuws?"
 ovos-skill-news.openvoiceos,news.intent,Kunt u het nieuws aanzetten?
 ovos-skill-news.openvoiceos,news.intent,Zorg dat het nieuws in mijn kamer klinkt
 ovos-skill-news.openvoiceos,news.intent,Kunt u alsjeblieft het nieuws aanzetten?
@@ -373,7 +373,7 @@ ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Heb je het begrepen?
 ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Heb je door wat ik zei?
 ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Alles helder?
 ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Luister je naar me?
-ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Hoi, ben je er?
+ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,"Hoi, ben je er?"
 ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Volg je me nog?
 ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Let je op?
 ovos-skill-parrot.openvoiceos,did.you.hear.me.intent,Zeg even of je me hoort
@@ -392,7 +392,7 @@ ovos-skill-parrot.openvoiceos,repeat.stt.intent,Kun je zeggen wat ik zei?
 ovos-skill-parrot.openvoiceos,repeat.stt.intent,Wat zei ik net?
 ovos-skill-parrot.openvoiceos,repeat.stt.intent,Herhaal mijn laatste woorden
 ovos-skill-parrot.openvoiceos,repeat.stt.intent,Wat zei ik daarvoor?
-ovos-skill-parrot.openvoiceos,repeat.stt.intent,Als je me hebt begrepen, herhaal dan wat ik zei
+ovos-skill-parrot.openvoiceos,repeat.stt.intent,"Als je me hebt begrepen, herhaal dan wat ik zei"
 ovos-skill-parrot.openvoiceos,repeat.stt.intent,Zeg nog eens wat ik zei
 ovos-skill-parrot.openvoiceos,repeat.stt.intent,Herhaal wat ik net zei
 ovos-skill-parrot.openvoiceos,repeat.stt.intent,Weet je nog wat ik net zei?
@@ -412,15 +412,15 @@ ovos-skill-parrot.openvoiceos,repeat.tts.intent,Herhaal het
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Alsjeblieft, zeg het nog eens
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Zeg het nog een keer
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Wat zei je?
-ovos-skill-parrot.openvoiceos,repeat.tts.intent,Kun je het laatste punt herhalen, alsjeblieft?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"Kun je het laatste punt herhalen, alsjeblieft?"
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Zeg het nog eens
-ovos-skill-parrot.openvoiceos,repeat.tts.intent,Ik heb je niet begrepen, kun je het herhalen?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"Ik heb je niet begrepen, kun je het herhalen?"
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Herhaal je antwoord
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Zeg het nog eens
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Zeg het nog een keer
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Herinner me wat je net zei
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Kun je dat laatste herhalen?
-ovos-skill-parrot.openvoiceos,repeat.tts.intent,Ik heb je niet begrepen, kun je het nog eens zeggen?
+ovos-skill-parrot.openvoiceos,repeat.tts.intent,"Ik heb je niet begrepen, kun je het nog eens zeggen?"
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Kun je precies herhalen wat je zei?
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Kun je dezelfde woorden nog eens zeggen als net?
 ovos-skill-parrot.openvoiceos,repeat.tts.intent,Wow, ik heb er geen zak van begrepen! Kun je het nog eens zeggen?
@@ -546,7 +546,7 @@ ovos-skill-personal.openvoiceos,WhoAreYou.intent,hoe moet ik je noemen?
 ovos-skill-personal.openvoiceos,WhoAreYou.intent,kun je me vertellen wie je bent?
 ovos-skill-personal.openvoiceos,WhoAreYou.intent,met wie praat ik?
 ovos-skill-personal.openvoiceos,WhoAreYou.intent,wie bent u?
-ovos-skill-personal.openvoiceos,WhoAreYou.intent,stel je even voor, ik weet niet eens hoe je heet.
+ovos-skill-personal.openvoiceos,WhoAreYou.intent,"stel je even voor, ik weet niet eens hoe je heet."
 ovos-skill-personal.openvoiceos,WhoAreYou.intent,hoe noem jij jezelf?
 ovos-skill-personal.openvoiceos,WhoAreYou.intent,hoe heet je?
 ovos-skill-personal.openvoiceos,WhoAreYou.intent,welke naam staat er op jouw ID?
@@ -604,7 +604,7 @@ ovos-skill-weather.openvoiceos,condition,komt er deze week ooit zon?
 ovos-skill-weather.openvoiceos,condition,wordt de wind vanmiddag minder of waai ik weg?
 ovos-skill-weather.openvoiceos,forecast,wat voor weer wordt het dit weekend in Viladecans?
 ovos-skill-weather.openvoiceos,forecast,hoe is het weer vanmiddag in Barcelona?
-ovos-skill-weather.openvoiceos,forecast,ik woon in Sant Cugat, moet ik vanmiddag een jas aan of een paraplu meenemen?
+ovos-skill-weather.openvoiceos,forecast,"ik woon in Sant Cugat, moet ik vanmiddag een jas aan of een paraplu meenemen?"
 ovos-skill-weather.openvoiceos,forecast,vertel me het weer voor deze week in Olot
 ovos-skill-weather.openvoiceos,forecast,hoe is het weer in Solsonès?
 ovos-skill-weather.openvoiceos,forecast,wat is de actuele weerssituatie in Móra d'Ebre?
@@ -705,7 +705,7 @@ common_query,wiki.intent,wat weet je over Columbus?
 common_query,wiki.intent,heb je info over het Verdrag van de Pyreneeën?
 common_query,wiki.intent,kun je me iets vertellen over chronische nierziekte?
 common_query,wiki.intent,voor een werkstuk heb ik info nodig over de Successieoorlog
-common_query,wiki.intent,ik heb geen idee wie Carme Ruscalleda is, kun je me wat over haar leven vertellen?
+common_query,wiki.intent,"ik heb geen idee wie Carme Ruscalleda is, kun je me wat over haar leven vertellen?"
 common_query,wiki.intent,check even wat bsc is
 common_query,wiki.intent,geef me info over de huidige president van de VS
 common_query,wiki.intent,wanneer gebeurde dat met de Twin Towers en wat is er precies gebeurd?
